@@ -76,7 +76,27 @@ SQL Analysis
    ↓
 Power BI Dashboard
    ↓
-Business Insights 
+Business Insights
+## Business Recommendations
+
+- Focus on high-performing product categories.
+- Target Young Adult customers with personalized offers.
+- Increase subscription conversion among non-subscribers.
+- Develop loyalty programs for returning and loyal customers.
+- Analyze discount usage to improve pricing strategies.
+
+## Conclusion
+
+This project helped me understand how to perform an end-to-end data analytics project using Python, SQL, PostgreSQL, and Power BI.
+
+The analysis converts raw customer data into useful business insights that can support better customer, product, and marketing decisions.
+
+## Author
+
+**Numan Momin**
+
+Aspiring Data Analyst  
+Python | SQL | PostgreSQL | Power BI
 
 
 
