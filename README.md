@@ -77,6 +77,7 @@ SQL Analysis
 Power BI Dashboard
    ↓
 Business Insights
+
 ## Business Recommendations
 
 - Focus on high-performing product categories.
